@@ -1,2 +1,4 @@
-este documento se creo para probar un flujo de trabajo en git
- jola mundo
+Este documento se creo para probar un flujo de trabajo en git
+Hola mundo!
+Este es uno de los cambios realizados
+nos encontramos en proceso de construcción del documento entregable
